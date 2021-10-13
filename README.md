@@ -25,3 +25,7 @@ Library : RealmSwift, Moya, Alamofire, SwiftyJSON, Kingfisher, ProgressHUD, MSPe
 - trailingSwipeAction으로 공유하기 및 삭제하기 구현
 - 사용 Library : RealmSwift
 - [ToDoList코드 보러가기](https://github.com/bongbong9708/ToDoList)
+
+![Simulator Screen Recording - iPhone 11 - 2021-10-13 at 10 03 02](https://user-images.githubusercontent.com/88380643/137049508-24b97445-f39a-43d6-af5e-0e7aaccfff0c.gif)
+![Simulator Screen Recording - iPhone 11 - 2021-10-13 at 09 58 20](https://user-images.githubusercontent.com/88380643/137049591-dde2c335-c903-4360-b930-58c964bd7281.gif)
+![Simulator Screen Recording - iPhone 11 - 2021-10-13 at 09 59 37](https://user-images.githubusercontent.com/88380643/137049646-40e6c036-5265-4783-9a86-f4caf9fde102.gif)
