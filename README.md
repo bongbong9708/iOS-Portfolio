@@ -19,6 +19,9 @@ Library : RealmSwift, Moya, Alamofire, SwiftyJSON, Kingfisher, ProgressHUD, MSPe
 - 사용 Library : Moya, Kingfisher, ProgressHUD, MSPeekCollectionViewDelegateImplementation
 - [TMDB코드 보러가기](https://github.com/bongbong9708/TMDB)
 
+![Simulator Screen Recording - iPhone 11 - 2021-10-13 at 10 16 23](https://user-images.githubusercontent.com/88380643/137050291-ca64b2d7-86cf-4a26-83bc-0c007db973d5.gif)
+![Simulator Screen Recording - iPhone 11 - 2021-10-13 at 10 18 15](https://user-images.githubusercontent.com/88380643/137050347-eb9e610e-5b4d-48f5-9e6c-49ef698e5286.gif)
+
 ## ToDoList
 - RealmSwift를 이용한 ToDoList
 - 할일 및 날짜 지정 후 Realm 데이터 저장
