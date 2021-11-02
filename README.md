@@ -12,6 +12,11 @@ iOS Developer Portfoilo
 # Project
 Library : RealmSwift, Moya, Alamofire, SwiftyJSON, Kingfisher, ProgressHUD, MSPeekCollectionViewDelegateImplementation 등
 
+## MessageApp
+- iOS Academy 클론코딩 Firebase Chat App
+- Firebase Realtime Chat App
+- 사용 Library : Firebase(Core,Auth,Database,Analytics,Crashlytics), FBSDKLoginKit, GoogleSignIn, MessageKit, JGProgressHUD, RealmSwift, SDWebImage
+
 ## TMDB
 - TMDB Api와 테이블뷰, 컬렉션뷰를 이용한 TV, Movie의 인기 순위, 개봉 예정, 현재 방송 중, 최고 등급을 나타내는 순위와 세부 정보를 표시
 - Top Rated 선택시 해당 정보에 대한 세부 내용 표시
