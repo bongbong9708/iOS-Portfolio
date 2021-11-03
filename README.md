@@ -27,7 +27,14 @@ Library : Firebase(Core,Auth,Database,Analytics,Crashlytics), FBSDKLoginKit, Goo
 - 사용 Library : Firebase(Core,Auth,Database,Analytics,Crashlytics), FBSDKLoginKit, GoogleSignIn, MessageKit, JGProgressHUD, RealmSwift, SDWebImage
 - [MessageApp코드 보러가기](https://github.com/bongbong9708/MessageApp)
 
-### TMDB
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/88380643/140050782-2eae5f28-7d75-4654-b5b3-92c19aea76d1.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/88380643/140050638-fa9834ea-39df-4bd0-936a-bce1abf14779.gif)
+
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/88380643/140063159-b080d90d-e0dc-45cc-962b-7c5aec853ed3.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/88380643/140063018-020d9c79-49c8-425c-a05c-84d9bb6e5eb4.gif)
+
+## TMDB
 - TMDB Api와 테이블뷰, 컬렉션뷰를 이용한 TV, Movie의 인기 순위, 개봉 예정, 현재 방송 중, 최고 등급을 나타내는 순위와 세부 정보를 표시
 - Top Rated 선택시 해당 정보에 대한 세부 내용 표시
 - MVC 구조로 구현
