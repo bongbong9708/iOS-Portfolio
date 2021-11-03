@@ -10,15 +10,24 @@ iOS Developer Portfoilo
 - Github: https://github.com/bongbong9708
 
 # Project
-Library : RealmSwift, Moya, Alamofire, SwiftyJSON, Kingfisher, ProgressHUD, MSPeekCollectionViewDelegateImplementation 등
+Library : Firebase(Core,Auth,Database,Analytics,Crashlytics), FBSDKLoginKit, GoogleSignIn, MessageKit, JGProgressHUD, RealmSwift, SDWebImage, Moya, Alamofire, SwiftyJSON, Kingfisher, ProgressHUD, MSPeekCollectionViewDelegateImplementation 등
 
 ## MessageApp
-- iOS Academy 클론코딩 Firebase Chat App
-- Firebase Realtime Chat App
+- Youtube iOS Academy 클론코딩 Firebase Chat App
+- Messenger Firebase Realtime Chat App
+### Features
+- 페이스북, 구글 로그인
+- 이메일/패스워드 등록, 로그인, 로그아웃
+- 사진, 비디오, 위치 메시지
+- 실시간 대화
+- 유저 검색
+- 대화 삭제
+- 유저 프로필
+- 다크 모드 지원
 - 사용 Library : Firebase(Core,Auth,Database,Analytics,Crashlytics), FBSDKLoginKit, GoogleSignIn, MessageKit, JGProgressHUD, RealmSwift, SDWebImage
 - [MessageApp코드 보러가기](https://github.com/bongbong9708/MessageApp)
 
-## TMDB
+### TMDB
 - TMDB Api와 테이블뷰, 컬렉션뷰를 이용한 TV, Movie의 인기 순위, 개봉 예정, 현재 방송 중, 최고 등급을 나타내는 순위와 세부 정보를 표시
 - Top Rated 선택시 해당 정보에 대한 세부 내용 표시
 - MVC 구조로 구현
